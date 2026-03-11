@@ -4,6 +4,21 @@
     "title": "TechCrunch | Startup and Technology News",
     "type": "scrape",
     "date": "2026-03-11",
+    "time": "19:10",
+    "url": "https://techcrunch.com",
+    "summary": "Founder Summit 2026 in Boston offers ticket savings of up to $300 if you register by March 13. · Quince reached a $10 billion valuation after raising a $500 million round led by Iconiq. · Lovable repo",
+    "opportunities": [
+      "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+      "Ride hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
+      "Zendesk acquires agentic customer service startup Forethought",
+      "Meta acquired Moltbook, the AI agent social network that went viral because of"
+    ]
+  },
+  {
+    "slug": "2026-03-11-techcrunch-com",
+    "title": "TechCrunch | Startup and Technology News",
+    "type": "scrape",
+    "date": "2026-03-11",
     "time": "18:28",
     "url": "https://techcrunch.com",
     "summary": "Skip to content Founder Summit 2026 in Boston: Don’t miss ticket savings of up to $300. Register Now. Close Latest Startups Venture Apple Security AI Apps Events Podcasts Newsletters Site Search Toggl",

@@ -135,6 +135,19 @@
       overflow-y: auto;
     }
 
+    .ai-report {
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-left: 3px solid #58a6ff;
+      border-radius: 8px;
+      padding: 20px 24px;
+      font-size: 15px;
+      line-height: 1.8;
+      color: #c9d1d9;
+      margin: 24px 0;
+      white-space: pre-wrap;
+    }
+
     footer {
       border-top: 1px solid #21262d;
       padding: 24px 0;
@@ -172,6 +185,8 @@
 
     <div class="section-heading">Summary</div>
     <div class="summary-text">{{SUMMARY}}</div>
+
+    {{AI_REPORT}}
 
     <div class="section-heading">Full Findings</div>
     <div class="raw-findings">{{RAW_TEXT}}</div>
