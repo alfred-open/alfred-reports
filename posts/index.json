@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "2026-03-11-techcrunch-com",
+    "title": "TechCrunch | Startup and Technology News",
+    "type": "scrape",
+    "date": "2026-03-11",
+    "time": "18:28",
+    "url": "https://techcrunch.com",
+    "summary": "Skip to content Founder Summit 2026 in Boston: Don’t miss ticket savings of up to $300. Register Now. Close Latest Startups Venture Apple Security AI Apps Events Podcasts Newsletters Site Search Toggl",
+    "opportunities": [
+      "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+      "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+      "Breakout Ventures raises $114M fund to back AI science startups",
+      "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts"
+    ]
+  }
+]
