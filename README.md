@@ -15,6 +15,7 @@ Each report includes:
 
 | Date | Title | Type |
 |------|-------|------|
+| 2026-03-11 | [TechCrunch | Startup and Technology News](reports/2026-03-11-techcrunch-com.md) | scrape |
 | *Reports will appear here automatically* | | |
 
 ---
