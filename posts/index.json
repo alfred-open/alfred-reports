@@ -1,5 +1,20 @@
 [
   {
+    "slug": "2026-03-12-security-funding-intelligence---yc---tec",
+    "title": "Scout Report: Security Funding Intelligence — 2026-03-12",
+    "type": "research",
+    "date": "2026-03-12",
+    "time": "02:03",
+    "url": "Security Funding Intelligence — YC + TechCrunch + HN",
+    "summary": "## YC W25 Security Companies Source: https://www.ycombinator.com/companies?batch=W25&industry=Security&industry=Cybersecurity About Companies Library Partners Resources Startup Jobs Log in Apply Start",
+    "opportunities": [
+      "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+      "OpenAI acquires Promptfoo to secure its AI agents",
+      "Google closes deal to acquire Wiz (wiz.io)",
+      "24.\t\tMeticulous (YC S21) is hiring to redefine software dev (ashbyhq.com)"
+    ]
+  },
+  {
     "slug": "2026-03-11-techcrunch-com",
     "title": "TechCrunch | Startup and Technology News",
     "type": "scrape",
